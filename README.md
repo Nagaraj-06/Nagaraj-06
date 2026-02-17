@@ -47,6 +47,13 @@ Practicing DSA daily to strengthen fundamentals.
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React.js_(Basics)-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
 ### ⚙️ Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -90,6 +97,16 @@ Practicing DSA daily to strengthen fundamentals.
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagaraj-06&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 
 </div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nagaraj-06&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7" />
+</div>
+
+---
 
 ## 📈 Contribution Graph
 
