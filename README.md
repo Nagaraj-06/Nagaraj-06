@@ -18,6 +18,9 @@
   <a href="mailto:rnagaraj6699@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/Nagaraj_R/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
   <a href="https://instagram.com/_.nagaraj_r" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -34,13 +37,37 @@
 
 ## 🧠 About Me
 
-```yaml
-name        : Nagaraj R
-education   : B.Tech Information Technology — 6th Semester
-role        : Aspiring Software Development Engineer
-focus       : Backend Engineering · Cloud Technologies · System Design
-interests   : Scalable APIs · Database Architecture · DevOps · Problem Solving
-currently   : Learning AWS · Exploring Microservices · DSA Practice
+```json
+{
+  "name"           : "Nagaraj R",
+  "education"      : "B.Tech Information Technology — 6th Semester",
+  "role"           : "Aspiring Software Development Engineer",
+
+  "focus"          : ["Backend Engineering", "Cloud Technologies", "System Design"],
+  "currently"      : ["Learning AWS", "Exploring Microservices", "Daily DSA Practice"],
+
+  "projects"       : [
+    "⚡ REST APIs with Node.js + Express.js + PostgreSQL + Prisma ORM",
+    "🔐 Auth Service using JWT, Bcrypt, Express.js & MySQL",
+    "🚀 High-performance backend services with Fastify + Sequelize ORM",
+    "☁️  Cloud-deployed applications on AWS infrastructure"
+  ],
+
+  "certifications" : [
+    "🏅 AWS Cloud Practitioner (In Progress)"
+  ],
+
+  "problemSolving" : {
+    "leetcode"     : "https://leetcode.com/u/Nagaraj_R/",
+    "focus"        : ["Data Structures", "Algorithms", "OOP", "OS Concepts"]
+  },
+
+  "openTo"         : {
+    "status"       : "🟢 Actively Looking",
+    "roles"        : ["SDE Intern", "Backend Developer Intern", "Full-Time SDE"],
+    "contact"      : "rnagaraj6699@gmail.com"
+  }
+}
 ```
 
 ---
@@ -90,7 +117,7 @@ currently   : Learning AWS · Exploring Microservices · DSA Practice
 ### ☁️ Cloud & DevOps
 <p>
   <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_Fundamentals-0078D4?style=for-the-badge&logo=icloud&logoColor=white" />
   <img src="https://img.shields.io/badge/DevOps_Basics-2671E5?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
