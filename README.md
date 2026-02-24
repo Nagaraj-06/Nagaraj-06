@@ -43,14 +43,14 @@ Practicing DSA daily to strengthen fundamentals.
 ### ⚙️ Core Technologies
 
 #### 🎨 Frontend
-| | | |
-| :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"><br/>**React 19 & Redux** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"><br/>**HTML5** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"><br/>**CSS3** |
+| | | | |
+| :---: | :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"><br/>**React 19** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"><br/>**Redux** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"><br/>**HTML5** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"><br/>**CSS3** |
 
 #### ⚙️ Backend
 | | | |
 | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"><br/>**Node.js** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"><br/>**Express.js** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original.svg" width="40"><br/>**Fastify** |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"><br/>**Node.js** | <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" width="80"><br/>**Express.js** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original.svg" width="40"><br/>**Fastify** |
 
 #### 🗄️ Database
 | | |
@@ -60,12 +60,12 @@ Practicing DSA daily to strengthen fundamentals.
 #### ☁️ Cloud & DevOps
 | | | |
 | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"><br/>**AWS** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"><br/>**Docker** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40"><br/>**GitHub Actions** |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"><br/>**AWS** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"><br/>**Docker** | <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40"><br/>**GitHub Actions** |
 
 #### 🔄 Messaging
 | |
 | :---: |
-| <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"><br/>**Apache Kafka** |
+| <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" width="100"><br/>**Apache Kafka** |
 
 ### 🛠️ Languages & Specialized Tools
 
@@ -82,7 +82,7 @@ Practicing DSA daily to strengthen fundamentals.
 #### 🔧 Developer Tools
 | | | |
 | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"><br/>**Git** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"><br/>**GitHub** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"><br/>**VS Code** |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"><br/>**Git** | <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40"><br/>**GitHub** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"><br/>**VS Code** |
 
 ---
 
