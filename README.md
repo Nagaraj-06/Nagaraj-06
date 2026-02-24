@@ -41,16 +41,16 @@ Practicing DSA daily to strengthen fundamentals.
 #### 🛠️ Tech Stack
 
 ### ⚙️ Core Technologies
-| **Frontend** | **Backend** | **Database** | **Messaging** | **DevOps** |
+| **Frontend** | **Backend** | **Database** | **Cloud & DevOps** | **Messaging** |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="60"> | <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" width="100"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="60"> |
-| **React** | **Node.js** | **PostgreSQL** | **Apache Kafka** | **Docker & AWS** |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"> |
+| **React, HTML, CSS** | **Node, Express, Fastify** | **PostgreSQL, MySQL** | **AWS, Docker, Actions** | **Apache Kafka** |
 
-### 🛠️ Specialized Tools
-| **ORM** | **Languages** | **Cache** | **Security / JWT** | **Tools** |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="60"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="60"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="60"> | <img src="https://jwt.io/img/pic_logo.svg" width="60"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60"> |
-| **Prisma & Sequelize** | **Java, JS, C** | **Redis** | **JWT & Joi** | **Git & VS Code** |
+### 🛠️ Languages & Tools
+| **Programming Languages** | **ORM & Caching** | **Developer Tools** |
+| :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"> |
+| **Java, JS, C** | **Prisma, Sequelize, Redis** | **Git, GitHub, VS Code** |
 
 ---
 
