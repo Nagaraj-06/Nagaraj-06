@@ -38,51 +38,56 @@ Practicing DSA daily to strengthen fundamentals.
 
 ---
 
-## 🛠️ Tech Stack
+#### 🛠️ Tech Stack
 
-### ⚙️ Core Technologies
+### 💬 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</p>
 
-#### 🎨 Frontend
-| | | | |
-| :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"><br/>**React 19** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"><br/>**Redux** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"><br/>**HTML5** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"><br/>**CSS3** |
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React.js_(Basics)-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-#### ⚙️ Backend
-| | | |
-| :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"><br/>**Node.js** | <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" width="80"><br/>**Express.js** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original.svg" width="40"><br/>**Fastify** |
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
+</p>
 
-#### 🗄️ Database
-| | |
-| :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"><br/>**PostgreSQL** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"><br/>**MySQL** |
+### 🗄️ Databases & Caching
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
 
-#### ☁️ Cloud & DevOps
-| | | |
-| :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"><br/>**AWS** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"><br/>**Docker** | <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40"><br/>**GitHub Actions** |
+### 🔄 Messaging & Async
+<p>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+</p>
 
-#### 🔄 Messaging
-| |
-| :---: |
-| <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" width="100"><br/>**Apache Kafka** |
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
 
-### 🛠️ Languages & Specialized Tools
-
-#### 💬 Programming Languages
-| | | |
-| :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"><br/>**Java** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"><br/>**JavaScript** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"><br/>**C Language** |
-
-#### 🏗️ ORM & Caching
-| | | |
-| :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40"><br/>**Prisma** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" width="40"><br/>**Sequelize** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"><br/>**Redis** |
-
-#### 🔧 Developer Tools
-| | | |
-| :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"><br/>**Git** | <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40"><br/>**GitHub** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"><br/>**VS Code** |
+### 🔧 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ---
 
@@ -91,7 +96,7 @@ Practicing DSA daily to strengthen fundamentals.
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nagaraj-06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nagaraj-06&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Nagaraj-06&theme=tokyonight&hide_border=true" />
 
 <br/>
 
