@@ -18,10 +18,15 @@
   <a href="https://leetcode.com/u/Nagaraj_R/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+  <a href="https://instagram.com/_.nagaraj_r" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="https://github.com/Nagaraj-06">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+[![](https://visitcount.itsvg.in/api?id=Nagaraj-06&label=Profile%20Views&color=7&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -29,16 +34,39 @@
 
 ## 🧠 About Me
 
-Backend Developer | Aspiring Software Development Engineer  
+```json
+{
+  "name"           : "Nagaraj R",
+  "education"      : "B.Tech Information Technology — 6th Semester",
+  "role"           : "Aspiring Software Development Engineer",
 
-B.Tech IT student focused on building scalable backend systems and cloud-based applications.  
-Strong interest in Backend Engineering, Cloud Technologies, and System Design.  
-Currently learning AWS and Microservices.  
-Practicing DSA daily to strengthen fundamentals.
+  "focus"          : ["Backend Engineering", "Cloud Technologies", "System Design"],
+  "currently"      : ["Learning AWS", "Exploring Microservices", "Daily DSA Practice"],
+
+  "projects"       : [
+    "🍔 Online Food Delivery Platform — Microservices · Node.js · Kafka · Docker · AWS EC2",
+    "🔐 Auth Service — JWT · Bcrypt · Express.js · MySQL",
+    "🚀 High-performance backend — Fastify · Sequelize ORM · PostgreSQL"
+  ],
+
+  "certifications" : ["🏅 AWS Cloud Practitioner (In Progress)"],
+
+  "problemSolving" : {
+    "leetcode"     : "https://leetcode.com/u/Nagaraj_R/",
+    "focus"        : ["Data Structures", "Algorithms", "OOP", "OS Concepts"]
+  },
+
+  "openTo"         : {
+    "status"       : "🟢 Actively Looking",
+    "roles"        : ["SDE Intern", "Backend Developer Intern", "Full-Time SDE"],
+    "contact"      : "rnagaraj6699@gmail.com"
+  }
+}
+```
 
 ---
 
-#### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### 💬 Programming Languages
 <p>
@@ -49,7 +77,8 @@ Practicing DSA daily to strengthen fundamentals.
 
 ### 🎨 Frontend
 <p>
-  <img src="https://img.shields.io/badge/React.js_(Basics)-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
@@ -61,24 +90,29 @@ Practicing DSA daily to strengthen fundamentals.
   <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
 </p>
 
-### 🗄️ Databases & Caching
+### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-### 🔄 Messaging & Async
+### 🔗 ORM
 <p>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
+</p>
+
+### ⚡ Caching & Messaging
+<p>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
 </p>
 
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
@@ -91,16 +125,33 @@ Practicing DSA daily to strengthen fundamentals.
 
 ---
 
+## 🚀 Featured Projects
+
+### 🍔 Online Food Delivery Platform &nbsp; `Dec 2025 – Present`
+
+- 🏗️ Designed **microservices architecture** with REST APIs and a shared Prisma schema across services
+- 🔐 Implemented **JWT-based authentication**, API rate limiting, and **Joi schema validation**
+- ⚡ Integrated **Redis caching** and **Kafka** for async event-driven processing between services
+- 🐳 Dockerized all services with **NGINX** as a load balancer for traffic distribution
+- 💳 Integrated **Stripe** and **Razorpay** for secure payment processing
+- 🚀 Set up **GitHub Actions CI/CD** pipeline with deployment to **AWS EC2**
+- 📄 Documented all APIs using **Swagger / Postman**
+
+**Tech Stack &nbsp;→&nbsp;**
+`Node.js` `Express.js` `Prisma ORM` `PostgreSQL` `JWT` `Redis` `Kafka` `Joi` `Docker` `NGINX` `Stripe` `Razorpay` `GitHub Actions` `AWS EC2` `Swagger`
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nagaraj-06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Nagaraj-06&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nagaraj-06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Nagaraj-06&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagaraj-06&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagaraj-06&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 
 </div>
 
@@ -109,7 +160,7 @@ Practicing DSA daily to strengthen fundamentals.
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nagaraj-06&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nagaraj-06&theme=tokyonight&no-frame=true&margin-w=6&column=6&row=1" />
 </div>
 
 ---
