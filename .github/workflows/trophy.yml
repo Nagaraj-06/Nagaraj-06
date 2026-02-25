@@ -6,6 +6,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
       - uses: ryo-ma/github-profile-trophy@master
@@ -14,6 +16,8 @@ jobs:
           template: tokyonight
           column: 6
           row: 1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
