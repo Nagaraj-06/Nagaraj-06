@@ -120,7 +120,7 @@ Practicing DSA daily to strengthen fundamentals.
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-beta-vert.vercel.app/?username=Nagaraj-06&theme=tokyonight&no-frame=true&margin-w=6&column=6&row=1" />
+  <img src="https://raw.githubusercontent.com/Nagaraj-06/Nagaraj-06/main/trophy.svg" />
 </div>
 
 ---

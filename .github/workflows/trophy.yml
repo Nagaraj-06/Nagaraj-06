@@ -1,0 +1,22 @@
+name: Update Trophies
+on:
+  schedule:
+    - cron: "0 0 * * *" # Every day at midnight
+  workflow_dispatch: # Allow manual run
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: ryo-ma/github-profile-trophy@master
+        with:
+          template: tokyonight
+          column: 6
+          row: 1
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update Trophies" || exit 0
+          git push
