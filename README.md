@@ -34,35 +34,12 @@
 
 ## 🧠 About Me
 
-```json
-{
-  "name"           : "Nagaraj R",
-  "education"      : "B.Tech Information Technology — 6th Semester",
-  "role"           : "Aspiring Software Development Engineer",
+Backend Developer | Aspiring Software Development Engineer  
 
-  "focus"          : ["Backend Engineering", "Cloud Technologies", "System Design"],
-  "currently"      : ["Learning AWS", "Exploring Microservices", "Daily DSA Practice"],
-
-  "projects"       : [
-    "🍔 Online Food Delivery Platform — Microservices · Node.js · Kafka · Docker · AWS EC2",
-    "🔐 Auth Service — JWT · Bcrypt · Express.js · MySQL",
-    "🚀 High-performance backend — Fastify · Sequelize ORM · PostgreSQL"
-  ],
-
-  "certifications" : ["🏅 AWS Cloud Practitioner (In Progress)"],
-
-  "problemSolving" : {
-    "leetcode"     : "https://leetcode.com/u/Nagaraj_R/",
-    "focus"        : ["Data Structures", "Algorithms", "OOP", "OS Concepts"]
-  },
-
-  "openTo"         : {
-    "status"       : "🟢 Actively Looking",
-    "roles"        : ["SDE Intern", "Backend Developer Intern", "Full-Time SDE"],
-    "contact"      : "rnagaraj6699@gmail.com"
-  }
-}
-```
+B.Tech IT student focused on building scalable backend systems and cloud-based applications.  
+Strong interest in Backend Engineering, Cloud Technologies, and System Design.  
+Currently learning AWS and Microservices.  
+Practicing DSA daily to strengthen fundamentals.
 
 ---
 
