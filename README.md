@@ -102,33 +102,16 @@ Practicing DSA daily to strengthen fundamentals.
 
 ---
 
-## 🚀 Featured Projects
-
-### 🍔 Online Food Delivery Platform &nbsp; `Dec 2025 – Present`
-
-- 🏗️ Designed **microservices architecture** with REST APIs and a shared Prisma schema across services
-- 🔐 Implemented **JWT-based authentication**, API rate limiting, and **Joi schema validation**
-- ⚡ Integrated **Redis caching** and **Kafka** for async event-driven processing between services
-- 🐳 Dockerized all services with **NGINX** as a load balancer for traffic distribution
-- 💳 Integrated **Stripe** and **Razorpay** for secure payment processing
-- 🚀 Set up **GitHub Actions CI/CD** pipeline with deployment to **AWS EC2**
-- 📄 Documented all APIs using **Swagger / Postman**
-
-**Tech Stack &nbsp;→&nbsp;**
-`Node.js` `Express.js` `Prisma ORM` `PostgreSQL` `JWT` `Redis` `Kafka` `Joi` `Docker` `NGINX` `Stripe` `Razorpay` `GitHub Actions` `AWS EC2` `Swagger`
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nagaraj-06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats-six-nu-87.vercel.app/api?username=Nagaraj-06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Nagaraj-06&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagaraj-06&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+<img height="160em" src="https://github-readme-stats-six-nu-87.vercel.app/api/top-langs/?username=Nagaraj-06&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 
 </div>
 
